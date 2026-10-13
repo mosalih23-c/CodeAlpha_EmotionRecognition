@@ -1,0 +1,17 @@
+{
+    "test_samples": 300,
+    "test_accuracy": 0.13333333333333333,
+    "balanced_accuracy": 0.125,
+    "macro_f1": 0.029498525073746312,
+    "emotions": [
+        "angry",
+        "calm",
+        "disgust",
+        "fearful",
+        "happy",
+        "neutral",
+        "sad",
+        "surprised"
+    ],
+    "best_model": "D:\\CodeAlpha_EmotionRecognition\\models\\cnn_melspectrogram.keras"
+}

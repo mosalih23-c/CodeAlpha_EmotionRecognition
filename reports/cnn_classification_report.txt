@@ -1,0 +1,22 @@
+CNN MEL-SPECTROGRAM EVALUATION
+=============================================
+
+Test samples: 300
+Test accuracy: 0.1333
+Balanced accuracy: 0.1250
+Macro F1-score: 0.0295
+
+              precision    recall  f1-score   support
+
+       angry       0.00      0.00      0.00        40
+        calm       0.13      1.00      0.24        40
+     disgust       0.00      0.00      0.00        40
+     fearful       0.00      0.00      0.00        40
+       happy       0.00      0.00      0.00        40
+     neutral       0.00      0.00      0.00        20
+         sad       0.00      0.00      0.00        40
+   surprised       0.00      0.00      0.00        40
+
+    accuracy                           0.13       300
+   macro avg       0.02      0.12      0.03       300
+weighted avg       0.02      0.13      0.03       300
